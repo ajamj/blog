@@ -2,38 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://ajamj.github.io/my-geo-blog/post/apa-itu-geologi/index.html</loc>
-    <lastmod>2023-06-04</lastmod>
+    <loc>https://ajamj.github.io/my-geo-blog/menu1/index.html</loc>
+    <lastmod>2023-06-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://ajamj.github.io/my-geo-blog/franklin/index.html</loc>
-    <lastmod>2023-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://ajamj.github.io/my-geo-blog/menu2/index.html</loc>
-    <lastmod>2023-06-04</lastmod>
+    <lastmod>2023-06-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://ajamj.github.io/my-geo-blog/menu3/index.html</loc>
-    <lastmod>2023-06-04</lastmod>
+    <lastmod>2023-06-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://ajamj.github.io/my-geo-blog/menu1/index.html</loc>
-    <lastmod>2023-06-04</lastmod>
+    <loc>https://ajamj.github.io/my-geo-blog/post/hidup-itu-ujian/index.html</loc>
+    <lastmod>2023-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://ajamj.github.io/my-geo-blog/menu2/index.html</loc>
+    <lastmod>2023-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://ajamj.github.io/my-geo-blog/post/apa-itu-geologi/index.html</loc>
+    <lastmod>2023-06-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://ajamj.github.io/my-geo-blog/index/</loc>
-    <lastmod>2023-06-04</lastmod>
+    <lastmod>2023-06-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
