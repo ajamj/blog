@@ -20,9 +20,9 @@ ignore = ["node_modules/"]
 # RSS (the website\_{title, descr, url} must be defined to get RSS)
 
 generate_rss = true
-website_title = "My Geo Blog"
-website_descr = "My Geo Blog"
-website_url = "https://ajamj.github.io/my-geo-blog/"
+website_title = "Blog Project"
+website_descr = "Blog Project"
+website_url = "https://ajamj.github.io/blog/"
 +++
 
 <!--
