@@ -1,4 +1,4 @@
-Sitemap: https://ajamj.github.io/my-geo-blog/sitemap.xml
+Sitemap: https://ajamj.github.io/blog/sitemap.xml
 
 User-agent: *
 Disallow:
