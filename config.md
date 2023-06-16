@@ -5,7 +5,7 @@ Add here global page variables to use throughout your website.
 +++
 author = "Ajam Jamaludin"
 mintoclevel = 2
-prepath = "my-geo-blog"
+prepath = "blog"
 
 # Add here files or directories that should be ignored by Franklin, otherwise
 
